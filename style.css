@@ -1,0 +1,40 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+span
+{
+    color:black;
+    font-size: 13px;
+}
+#status
+{
+font-size: 18px;
+}
+
+#no_of_objects
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position:center;
+}
+canvas{
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px aquamarine;
+    border: 2px solid black;
+}
+.copy_right_footer{
+    bottom: 0;
+    color: grey;
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+    background-color: aliceblue;
+    text-align: center;
+}
